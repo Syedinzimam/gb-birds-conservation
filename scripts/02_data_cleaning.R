@@ -2,7 +2,7 @@
 # SCRIPT 02: DATA CLEANING AND STANDARDIZATION
 # Project: Conservation Priority Assessment of Birds in Gilgit-Baltistan
 # Author: Syed Inzimam Ali Shah
-# Date: December 2025
+# Date: Nov-Dec 2025
 # Purpose: Clean, standardize, and combine GBIF and iNaturalist data
 ################################################################################
 
@@ -22,7 +22,7 @@ cat("Libraries loaded successfully!\n\n")
 # 2. SET WORKING DIRECTORY
 # ============================================================================
 
-setwd("C:/gb-birds-conservation")
+setwd("C:/gb_birds_conservation")
 
 cat("Working directory set!\n\n")
 
