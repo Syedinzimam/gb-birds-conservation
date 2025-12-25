@@ -2,7 +2,7 @@
 # SCRIPT 01: DATA DOWNLOAD
 # Project: Conservation Priority Assessment of Birds in Gilgit-Baltistan
 # Author: Syed Inzimam Ali Shah
-# Date: December 2025
+# Date: Nov-Dec 2025
 # Purpose: Download bird occurrence data from GBIF and iNaturalist
 ################################################################################
 
@@ -31,7 +31,7 @@ cat("Libraries loaded successfully!\n\n")
 # ============================================================================
 
 # Set your working directory to the project folder
-setwd("C:/gb-birds-conservation")
+setwd("C:/gb_birds_conservation")
 
 # Create folder structure if it doesn't exist
 dir.create("data", showWarnings = FALSE)
