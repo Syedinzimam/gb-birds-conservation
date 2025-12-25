@@ -5,7 +5,7 @@
 **Author:** Syed Inzimam Ali Shah  
 **Education:** BS Zoology (Virtual University of Pakistan), B.Sc. Forestry (Pakistan Forest Institute)  
 **Contact:** inzimamsyed12@gmail.com  
-**Date:** December 2025
+**Date:** Nov-Dec 2025
 
 ---
 
@@ -74,7 +74,7 @@ Gilgit-Baltistan is a biodiversity hotspot in the Western Himalayas, hosting div
 ## Repository Structure
 
 ```
-gb-birds-conservation/
+gb_birds_conservation/
 │
 ├── data/
 │   ├── raw/                      # Original downloaded data
@@ -212,7 +212,7 @@ cd gb-birds-conservation
 
 2. **Set working directory in R:**
 ```r
-setwd("C:/gb-birds-conservation")
+setwd("C:/gb_birds_conservation")
 ```
 
 3. **Run scripts in order:**
@@ -256,7 +256,7 @@ If you use this analysis or data in your work, please cite:
 
 ```
 Shah, S.I.A. (2025). Conservation Priority Assessment of Birds in Gilgit-Baltistan. 
-GitHub repository: https://github.com/Syedinzimam/gb-birds-conservation
+GitHub repository: https://github.com/Syedinzimam/gb_birds_conservation
 ```
 
 ---
@@ -272,9 +272,9 @@ GitHub repository: https://github.com/Syedinzimam/gb-birds-conservation
 
 ## Related Projects
 
-1. [Pakistan Biodiversity Analysis](https://github.com/Syedinzimam/pakistan-biodiversity-analysis)
+1. [Pakistan Biodiversity Analysis](https://github.com/Syedinzimam/pakistan_biodiversity_analysis)
 2. [Species Distribution Modeling: Himalayan Ibex](https://github.com/Syedinzimam/SDM_Himalayan_Ibex)
-3. [Booni Butterfly Diversity](https://github.com/Syedinzimam/booni-butterfly-diversity)
+3. [Booni Butterfly Diversity](https://github.com/Syedinzimam/booni_butterfly_diversity)
 
 ---
 
